@@ -1,0 +1,8 @@
+boolean ate = false;
+void draw(){
+  double w = 1.0;
+  double x = 1.0;
+  double h = 1.0;
+  double y = 1.0;
+  Ellipse(w, h, x, y);
+}
